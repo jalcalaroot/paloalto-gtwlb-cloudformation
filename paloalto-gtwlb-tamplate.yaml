@@ -191,7 +191,7 @@ Parameters:
   pTagValueCostCenter:
     Type: Number
     Description: Este es el valor de tag para 'workload:cost-center'.
-    Default: "179"
+    Default: "000"
   pTagValueBussOwner:
     Type: String
     Description: Este es el valor de tag para 'workload:buss-owner'
